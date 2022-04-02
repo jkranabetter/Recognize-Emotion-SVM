@@ -1,0 +1,6 @@
+__pycache__/
+data/CK_Dataset/
+data/fer2013.csv
+numpy_fer2013/
+shape_predictor_68_face_landmarks.dat
+saved_model.bin
