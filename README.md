@@ -9,6 +9,8 @@ Using a multi-class SVM classifier (Sklearn) to predict facial expressions. Uses
 
 3. Get things moving in the 'train.py' file where further instructions are included.
 
+![Demo Picture](demo.png)
+
 ## Classification Results :
 
 |       Features       |     Dataset      |  7 emotions   |   6 emotions   |   5 emotions   |
